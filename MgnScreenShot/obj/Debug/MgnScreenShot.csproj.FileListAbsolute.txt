@@ -1,0 +1,10 @@
+d:\Programming\projects\csharp\MgnScreenShot\MgnScreenShot\bin\Debug\MgnScreenShot.exe.config
+d:\Programming\projects\csharp\MgnScreenShot\MgnScreenShot\bin\Debug\MgnScreenShot.exe
+d:\Programming\projects\csharp\MgnScreenShot\MgnScreenShot\bin\Debug\MgnScreenShot.pdb
+d:\Programming\projects\csharp\MgnScreenShot\MgnScreenShot\obj\Debug\MgnScreenShot.csprojResolveAssemblyReference.cache
+d:\Programming\projects\csharp\MgnScreenShot\MgnScreenShot\obj\Debug\MgnScreenShot.frmMain.resources
+d:\Programming\projects\csharp\MgnScreenShot\MgnScreenShot\obj\Debug\MgnScreenShot.Properties.Resources.resources
+d:\Programming\projects\csharp\MgnScreenShot\MgnScreenShot\obj\Debug\MgnScreenShot.csproj.GenerateResource.Cache
+d:\Programming\projects\csharp\MgnScreenShot\MgnScreenShot\obj\Debug\MgnScreenShot.csproj.CoreCompileInputs.cache
+d:\Programming\projects\csharp\MgnScreenShot\MgnScreenShot\obj\Debug\MgnScreenShot.exe
+d:\Programming\projects\csharp\MgnScreenShot\MgnScreenShot\obj\Debug\MgnScreenShot.pdb
